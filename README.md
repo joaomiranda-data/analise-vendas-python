@@ -20,7 +20,7 @@ analise-vendas-python/
 │   └── analise_vendas.ipynb
 │
 ├── data/
-│   └── vendas.csv
+│   └── dados.csv
 │
 ├── README.md
 
